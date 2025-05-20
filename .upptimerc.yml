@@ -14,12 +14,16 @@ status-website:
   cname: status.gvmunifi.com
   #baseUrl: /StatusPage
   logoUrl: https://gvmunifi.com/favicon.ico
-  name: Unifi Status
+  favicon: https://gvmunifi.com/favicon.ico
+  name: GVM Unifi Status
   #introTitle: ""
   #introMessage: "" 
   navbar:
     - title: Status
       href: /
+
+ i18n:
+  footer: ""
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
