@@ -22,7 +22,7 @@ status-website:
     - title: Status
       href: /
 
- i18n:
+i18n:
   footer: ""
 
 # Upptime also supports notifications, assigning issues, and more
